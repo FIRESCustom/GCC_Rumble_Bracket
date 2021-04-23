@@ -1,4 +1,4 @@
-# FIRES GCC Rumble Bracket v10
+# FIRES GCC Rumble Bracket v14
 
-Updated: 2020-Sep-21
+Updated: 2021-Apr-23
 LINK TO GUIDE & 3D PRINTING INFO: https://www.firescc.com/rumble-bracket
